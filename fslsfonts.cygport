@@ -1,8 +1,8 @@
 inherit xorg
 
 NAME="fslsfonts"
-VERSION=1.0.2
+VERSION=1.0.4
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="X.Org Font Server font lister"
-DESCRIPTION="X.Org Font Server font lister"
+DESCRIPTION="fslsfonts produces a list of fonts served by an X font server (xfs)."
